@@ -10,11 +10,11 @@
 - Spell Check
 - Ranking
 
-> [Presentation](https://github.com/Jaydeep21/MAC-ACC-SearchEngine/blob/master/assets/ACC_Search_Engine_PPT.pdf)
+> [Presentation](https://github.com/abhishekpatelmc/Uwin_ACC_Search_Engine/blob/master/assets/ACC_Search_Engine_PPT.pdf)
 
 ## Flowchart
 
-<img src="https://github.com/Jaydeep21/MAC-ACC-SearchEngine/blob/master/assets/Search_Engine_FLowchart.png"  width="400" height="400">
+<img src="https://github.com/abhishekpatelmc/Uwin_ACC_Search_Engine/blob/master/assets/Search_Engine_FLowchart.png"  width="400" height="400">
 
 ## Install source code
 
