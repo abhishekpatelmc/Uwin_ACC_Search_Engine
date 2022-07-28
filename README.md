@@ -26,7 +26,7 @@
 2. Download source code
 
 ```
-$ git clone https://github.com/Jaydeep21/MAC-ACC-SearchEngine.git
+$ git clone https://github.com/abhishekpatelmc/Uwin_ACC_Search_Engine.git
 $ cd MAC-ACC-SearchEngine
 ```
 
